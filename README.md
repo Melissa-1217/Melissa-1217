@@ -58,70 +58,39 @@ I enjoy learning how systems work behind the scenes, solving programming problem
 
 ---
 
+
 ## Featured Projects
 
-### ParkUTP ProyWeb
-**Collaborative web application**  
-Repository: [serchiove/parkutp-proyweb](https://github.com/serchiove/parkutp-proyweb)
+<div align="center">
 
-**My contribution**
-- CRUD functionality for *sedes*
-- PostgreSQL and JDBC integration
-- JSP form adjustments
-- API/Postman documentation
+<a href="https://github.com/serchiove/parkutp-proyweb">
+  <img src="./assets/parkutp.png" width="47%" alt="ParkUTP ProyWeb">
+</a>
+<a href="https://github.com/EdwinHYucra/Generacion_de_Horarios">
+  <img src="./assets/horarios.png" width="47%" alt="University Schedule Generator">
+</a>
 
-**Main stack:** Java, PostgreSQL, JDBC, JSP
+<a href="https://github.com/serchiove/python-report-generator">
+  <img src="./assets/python-report.png" width="47%" alt="Python Report Generator">
+</a>
+<img src="./assets/simulado.png" width="47%" alt="Free Kick Simulator - Private repository">
 
----
+</div>
 
-### University Schedule Generator
-**Academic management system**  
-Repository: [EdwinHYucra/Generacion_de_Horarios](https://github.com/EdwinHYucra/Generacion_de_Horarios)
+<p align="center">
+  <i>Collaborative academic projects · My contributions are described in each card.</i>
+</p>
 
-**My contribution**
-- Course availability module
-- Interface improvements
-- Schedule-related adjustments
-- Database script updates
+<details>
+<summary>Other academic work</summary>
 
-**Main stack:** Java, Spring Boot, MySQL, HTML/CSS
+**Velcar E-commerce Platform:** Contributed to the academic documentation and project report as part of the development team.
 
----
-
-### Python Report Generator
-**Collaborative data processing project**  
-Repository: [serchiove/python-report-generator](https://github.com/serchiove/python-report-generator)
-
-**My contribution**
-- Development of the report generation module
-
-**Main stack:** Python
+</details>
 
 ---
 
-### Free Kick Simulator
-**Collaborative academic game project**  
-Repository: *currently private*
 
-**My contribution**
-- Main menu development
-- Gameplay corrections and adjustments
-- Bug fixing
-
-**Main stack:** JavaScript, React, Vite
-
----
-
-### Velcar E-commerce Platform
-**Collaborative academic project**  
-Repository: *private / team repository*
-
-**My participation**
-- Documentation and academic report support
-
-**Main stack:** HTML, Java, CSS, JavaScript
-
----
 
 ## Currently Learning
 
