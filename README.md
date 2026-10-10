@@ -1,22 +1,16 @@
+
 <div align="center">
 
-# Melissa’s Digital Atelier
+<img src="./assets/banner.png" width="100%" alt="Melissa's Digital Atelier">
 
-### Backend Enthusiast | Java Developer in Progress
-
-*Turning ideas into meaningful systems.*
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3200&pause=1200&color=C9A97A&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Melissa.;Software+Engineering+student.;Backend+development+enthusiast.;Learning%2C+building+and+growing+every+day." alt="Typing SVG" />
-
-<br>
-
-*Learn ✦ Build ✦ Grow ✦ Repeat*
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3000&pause=1200&color=C9A97A&center=true&vCenter=true&width=600&height=55&lines=Hello%2C+I'm+Melissa!;Software+Engineering+Student;Exploring+Backend+Development;Learning+and+Building+Every+Day" alt="Animated introduction">
 
 </div>
 
 ---
 
 ## About Me
+
 
 Hi! I'm Melissa, a Software Engineering student with a strong interest in **backend development** and a growing focus on **Java**.
 
