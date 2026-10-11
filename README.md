@@ -114,6 +114,10 @@ I enjoy learning how systems work behind the scenes, solving programming problem
 
 ---
 
+<div align="center">
+  <img src="./assets/melissa-gatito-animado.gif" width="320" alt="Sleeping vintage cat animation">
+</div>
+
 ## A Little Note
 
 I believe growth happens step by step.
