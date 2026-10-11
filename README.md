@@ -9,22 +9,23 @@
 
 ---
 
+
 ## About Me
 
+<img align="right" src="./assets/melissa-gatito-animado.gif" width="290" alt="Sleeping vintage cat">
 
 Hi! I'm Melissa, a Software Engineering student with a strong interest in **backend development** and a growing focus on **Java**.
 
-I enjoy learning how systems work behind the scenes, solving programming problems, and building meaningful projects through teamwork. I’ve worked on frontend, backend, databases, and academic collaborative projects, but my main interest is continuing to grow as a backend developer.
+I enjoy learning how systems work behind the scenes, solving programming problems, and building meaningful projects through teamwork.
 
-### A few things about me
+I've worked with frontend, backend, databases, and Linux environments such as Ubuntu and CentOS.
 
-- Backend enthusiast with a special interest in **Java**
-- Familiar with both **frontend and backend development**
-- Interested in **databases, system design, and continuous learning**
-- Comfortable working in **Linux environments** such as Ubuntu and CentOS
-- I see GitHub as a personal archive of everything I’m learning and building
+My GitHub is a personal archive of everything I'm learning and building.
+
+<br clear="both">
 
 ---
+
 
 ## Skills & Technologies
 
@@ -113,10 +114,6 @@ I enjoy learning how systems work behind the scenes, solving programming problem
 </div>
 
 ---
-
-<div align="center">
-  <img src="./assets/melissa-gatito-animado.gif" width="320" alt="Sleeping vintage cat animation">
-</div>
 
 ## A Little Note
 
