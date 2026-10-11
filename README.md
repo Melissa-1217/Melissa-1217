@@ -115,14 +115,6 @@ My GitHub is a personal archive of everything I'm learning and building.
 
 ---
 
-## A Little Note
-
-I believe growth happens step by step.
-
-Every project, every contribution, and every mistake is part of the journey of becoming a better developer and a better version of myself.
-
 <div align="center">
-
-*Same girl, brighter systems, better days.*
-
+  <img src="./assets/next-chapter.png" width="100%" alt="The Next Chapter">
 </div>
