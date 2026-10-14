@@ -123,20 +123,32 @@ Collaborative academic game project.
 ---
 
 ### 05. Library Management System
-**Java**
+**Java · OOP · MySQL**
 
-Academic project involving library management functionality.
+Academic library management project developed using Java and Object-Oriented Programming (OOP), with MySQL database integration.
+
+**Project experience:**
+- Applied object-oriented programming concepts.
+- Developed application functionality using Java.
+- Connected the system to a MySQL database.
 
 [View Repository](https://github.com/Melissa-1217/Sistema_de_Biblioteca)
 
 ---
 
 ### 06. VITTA MVP
-**JavaScript**
+**HTML · CSS · JavaScript**
 
-Academic MVP developed for an innovation and digital transformation course.
+Collaborative academic web project developed for an Innovation and Digital Transformation course.
 
-[View Repository](https://github.com/Melissa-1217/VITTA-MVP)
+VITTA is an online marketplace prototype featuring product promotions, shopping-related sections and a digital storefront.
+
+**Project experience:**
+- Worked with frontend web technologies.
+- Participated in the collaborative development of the prototype.
+- Contributed to an academic web project published through GitHub Pages.
+
+[View Repository](https://github.com/Melissa-1217/VITTA-MVP) · [Live Demo](https://edwinhyucra.github.io/Vitta/)
 
 ---
 
@@ -183,7 +195,8 @@ Inventory management and B2B sales platform for industrial spare parts.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Melissa-1217&show_icons=true&hide_border=true&title_color=C9A97A&text_color=EADBC8&icon_color=C9A97A&bg_color=0D1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-1217&layout=compact&hide_border=true&title_color=C9A97A&text_color=EADBC8&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-1217&layout=compact&langs_count=10&hide_border=true&title_color=C9A97A&text_color=EADBC8&bg_color=0D1117" alt="Most Used Languages" />
 
 </div>
 
