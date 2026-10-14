@@ -60,34 +60,108 @@ My GitHub is a personal archive of everything I'm learning and building.
 ---
 
 
-## Featured Projects
 
-<div align="center">
+## Project Archive
 
-<a href="https://github.com/serchiove/parkutp-proyweb">
-  <img src="./assets/parkutp.png" width="47%" alt="ParkUTP ProyWeb">
-</a>
-<a href="https://github.com/EdwinHYucra/Generacion_de_Horarios">
-  <img src="./assets/horarios.png" width="47%" alt="University Schedule Generator">
-</a>
+*A collection of academic projects, collaborative experiences and personal work.*
 
-<a href="https://github.com/serchiove/python-report-generator">
-  <img src="./assets/python-report.png" width="47%" alt="Python Report Generator">
-</a>
-<img src="./assets/simulado.png" width="47%" alt="Free Kick Simulator - Private repository">
+### 01. ParkUTP — Parking Management Web System
+**Java · PostgreSQL · JDBC · JSP**
 
-</div>
+Collaborative web application developed for parking management.
 
-<p align="center">
-  <i>Collaborative academic projects · My contributions are described in each card.</i>
-</p>
+**My contributions:**
+- Implemented CRUD operations for parking locations (sedes).
+- Worked with PostgreSQL and JDBC.
+- Adjusted JSP forms and application functionality.
+- Prepared API documentation and Postman evidence.
+
+[View Repository](https://github.com/serchiove/parkutp-proyweb)
+
+---
+
+### 02. University Schedule Generator
+**Java · Spring Boot · Thymeleaf · HTML/CSS · MySQL**
+
+Academic system for managing university schedules.
+
+**My contributions:**
+- Developed the faculty module, integrating frontend, backend and database.
+- Created MySQL tables and test records.
+- Built dynamic interfaces with HTML, CSS and Thymeleaf.
+- Implemented backend functionality using Spring Boot.
+- Worked on course availability, scheduling adjustments and database scripts.
+
+[View Repository](https://github.com/EdwinHYucra/Generacion_de_Horarios)
+
+---
+
+### 03. Python Report Generator
+**Python**
+
+Collaborative data-processing and reporting project.
+
+**My contribution:**
+- Developed the report generation module.
+
+[View Repository](https://github.com/serchiove/python-report-generator)
+
+---
+
+### 04. Free Kick Simulator
+**JavaScript · React · Vite**
+
+Collaborative academic game project.
+
+**My contributions:**
+- Developed the main menu.
+- Made gameplay adjustments.
+- Corrected errors and improved functionality.
+
+[View Repository](https://github.com/Melissa-1217/simulador-tiros-libres)
+
+---
+
+### 05. Library Management System
+**Java**
+
+Academic project involving library management functionality.
+
+[View Repository](https://github.com/Melissa-1217/Sistema_de_Biblioteca)
+
+---
+
+### 06. VITTA MVP
+**JavaScript**
+
+Academic MVP developed for an innovation and digital transformation course.
+
+[View Repository](https://github.com/Melissa-1217/VITTA-MVP)
+
+---
+
+### 07. Velcar E-commerce Platform
+**Collaborative academic project**
+
+Inventory management and B2B sales platform for industrial spare parts.
+
+**My participation:**
+- Contributed to the academic report and project documentation.
+
+*Private team repository.*
+
+---
 
 <details>
-<summary>Other academic work</summary>
+<summary>More academic exercises and repositories</summary>
 
-**Velcar E-commerce Platform:** Contributed to the academic documentation and project report as part of the development team.
+- [Tarea Biblioteca](https://github.com/Melissa-1217/Tarea_Biblioteca)
+- [Python Classroom Exercises](https://github.com/Melissa-1217/codigos-python-vistos-en-clase)
+- [Práctica 1](https://github.com/Melissa-1217/Practica1)
+- [Regalo para Pris](https://github.com/Melissa-1217/regalo-para-Pris)
 
 </details>
+
 
 ---
 
